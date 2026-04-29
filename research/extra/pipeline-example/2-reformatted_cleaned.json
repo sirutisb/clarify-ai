@@ -1,0 +1,17 @@
+{
+  "id": "123456790",
+  "input_x": "When was mercury discovered?",
+  "is_ambiguous": true,
+  "interpretations": [
+    {
+      "question": "When was the planet mercury discovered?",
+      "answer": "1609"
+    },
+    {
+      "question": "When was the element mercury discovered?",
+      "answer": "2000 BC"
+    }
+  ],
+  "gold_intent_question": "When was the planet mercury discovered?",
+  "gold_output_answer": "1609"
+}

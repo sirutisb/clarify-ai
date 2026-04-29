@@ -1,0 +1,1897 @@
+Generating Oracle Q&A (Qwen 3.5 9B):   0%|          | 2/400 [00:04<13:23,  2.02s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the name of the character who dies, or the name of the actor who played that character?
+Clarification Response 1: The character's name.
+Clarification Response 2: The actor's name.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   1%|          | 3/400 [00:08<20:14,  3.06s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the highest individual career run total across all formats, or the highest team aggregate runs in international matches?
+Clarification Response 1: Highest individual career run total.
+Clarification Response 2: Highest team aggregate in international matches.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   1%|          | 4/400 [00:12<22:19,  3.38s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the actor who played Matt Brody in the original TV series or the original movie?
+Clarification Response 1: The original TV series.
+Clarification Response 2: The original movie.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   2%|▏         | 7/400 [00:24<25:13,  3.85s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for L's canonical name from the guidebook, or the real names of the actors/voice actors portraying him in specific adaptations like the anime, films, TV series, or musical?
+Clarification Response 1: The canonical name from the guidebook.
+Clarification Response 2: The voice actor in the American film.
+Clarification Response 3: The Japanese voice actor for the anime.
+Clarification Response 4: The Japanese voice actor (general).
+Clarification Response 5: The English voice actor.
+Clarification Response 6: The actor in the films.
+Clarification Response 7: The actor in the TV series.
+Clarification Response 8: The actor in the musical.
+Clarification Response 9: The actor in the American film.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   2%|▏         | 8/400 [00:29<25:56,  3.97s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the type of fish used in Filet-O-Fish burgers in the UK and New Zealand, or in the US?
+Clarification Response 1: The UK and New Zealand.
+Clarification Response 2: The US.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   3%|▎         | 11/400 [00:34<18:39,  2.88s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the specific person who may have landed it in 1989, or the individual generally credited with the achievement?
+Clarification Response 1: The person who may have landed it in 1989.
+Clarification Response 2: The person generally credited with landing it.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   3%|▎         | 13/400 [00:38<16:43,  2.59s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the specific calendar date or the model year when Jeep started making 4-door Wranglers?
+Clarification Response 1: The specific calendar date.
+Clarification Response 2: The model year.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   4%|▍         | 17/400 [00:43<12:20,  1.93s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the main game, or one of the specific DLC scenarios "Not a Hero" or "End of Zoe"?
+Clarification Response 1: The main game.
+Clarification Response 2: Not a Hero.
+Clarification Response 3: End of Zoe.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   5%|▍         | 19/400 [00:47<12:45,  2.01s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about "yang" as part of the yin-yang concept, or as a Chinese surname?
+Clarification Response 1: As part of the yin-yang concept.
+Clarification Response 2: As a Chinese surname.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   5%|▌         | 20/400 [00:52<15:32,  2.45s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which character's father are you asking about: Wally and Beaver, Eddie, Clarence, or Linda?
+Clarification Response 1: Wally and Beaver.
+Clarification Response 2: Eddie.
+Clarification Response 3: Clarence.
+Clarification Response 4: Linda.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   6%|▌         | 22/400 [01:11<28:41,  4.56s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which specific Star Wars movie are you asking about, and do you mean the original theatrical release or a re-release?
+Clarification Response 1: Episode IV – A New Hope.
+Clarification Response 2: Episode V – The Empire Strikes Back.
+Clarification Response 3: Episode VI – Return of the Jedi.
+Clarification Response 4: Episode I – The Phantom Menace.
+Clarification Response 5: Episode II – Attack of the Clones.
+Clarification Response 6: Episode III – Revenge of the Sith.
+Clarification Response 7: Episode VII – The Force Awakens.
+Clarification Response 8: Episode VIII – The Last Jedi.
+Clarification Response 9: Episode IX – The Rise of Skywalker.
+Clarification Response 10: Star Wars: The Clone Wars.
+Clarification Response 11: Rogue One: A Star Wars Story.
+Clarification Response 12: Solo: A Star Wars Story.
+Clarification Response 13: Return of the Jedi re-release.
+Clarification Response 14: Phantom Menace re-release.
+Clarification Response 15: Rogue One (re-release).
+Clarification Response 16: Solo (re-release).
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   6%|▌         | 24/400 [01:15<23:45,  3.79s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking which band performed the song "There's a Meeting in the Ladies Room," or who the lead vocalist is?
+Clarification Response 1: Which band performed it.
+Clarification Response 2: Who the lead vocalist is.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   6%|▋         | 25/400 [01:19<23:52,  3.82s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the first general US immigration law, or the first law specifically regarding naturalization?
+Clarification Response 1: The first general US immigration law.
+Clarification Response 2: The first law regarding naturalization.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   6%|▋         | 26/400 [01:26<28:31,  4.58s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the oldest unverified claimant, the oldest verified record holder, the oldest currently living person, or someone who was independently verified/undisputed?
+Clarification Response 1: The oldest unverified claimant.
+Clarification Response 2: The oldest verified record holder.
+Clarification Response 3: The oldest currently living person.
+Clarification Response 4: The independently verified longest-lived person.
+Clarification Response 5: The undisputed longest-lived person.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   7%|▋         | 27/400 [01:33<31:03,  5.00s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which artist or band's version of 'Where Do We Go from Here?' are you asking about?
+Clarification Response 1: Vanessa Williams.
+Clarification Response 2: Stacy Lattisaw.
+Clarification Response 3: Chicago.
+Clarification Response 4: Filter.
+Clarification Response 5: The 1917 song.
+Clarification Response 6: Cliff Richard.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   7%|▋         | 28/400 [01:36<28:08,  4.54s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who sings the lead vocals or the background vocals in "Next to Me"?
+Clarification Response 1: Lead vocals.
+Clarification Response 2: Background vocals.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   9%|▉         | 35/400 [01:44<13:06,  2.16s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking which actor played the character, or which specific character died? Also, do you mean the Season 9 crash or the Season 8 crash?
+Clarification Response 1: The actor who played the character dying in the Season 9 crash.
+Clarification Response 2: The character who died in the Season 9 crash.
+Clarification Response 3: The character who died in the Season 8 crash.
+Clarification Response 4: The actor who played the character dying in the Season 8 crash.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):   9%|▉         | 36/400 [01:49<15:09,  2.50s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the general body part, the specific location within the shoulder, or the exact area it encompasses?
+Clarification Response 1: The general body part.
+Clarification Response 2: The specific location within the shoulder.
+Clarification Response 3: The exact area it encompasses.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  10%|▉         | 39/400 [01:53<12:38,  2.10s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the scroll wheel on a computer mouse or the exercise wheel inside a pet mouse cage?
+Clarification Response 1: The scroll wheel on a computer mouse.
+Clarification Response 2: The exercise wheel inside a pet mouse cage.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  11%|█▏        | 45/400 [01:58<08:21,  1.41s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the specific counties, the cities, or the general region covered by area code 571?
+Clarification Response 1: The specific counties.
+Clarification Response 2: The cities.
+Clarification Response 3: The general region.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  12%|█▏        | 48/400 [02:01<08:01,  1.37s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking where the movie "It" was filmed, or where its story takes place?
+Clarification Response 1: Where it was filmed.
+Clarification Response 2: Where the story takes place.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  12%|█▎        | 50/400 [02:07<09:26,  1.62s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the name of the murderer character, or the name of the actor who played that role?
+Clarification Response 1: The name of the murderer character.
+Clarification Response 2: The actor who played the murderer.
+Clarification Response 3: The actor who was the murderer.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  13%|█▎        | 51/400 [02:12<12:23,  2.13s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about symbiosis (long-term), commensalism/mutualism (short-term net benefit), or coevolution (evolutionary process)?
+Clarification Response 1: Long-term living together.
+Clarification Response 2: Short-term net benefit.
+Clarification Response 3: Evolutionary process working together.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  13%|█▎        | 52/400 [02:21<18:10,  3.13s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the Ford Mondeo's class, its specific US model names for different generations (Mk I, II, or V), or which car it was based on?
+Clarification Response 1: What class of car is it?
+Clarification Response 2: What name was the Mk I sold under?
+Clarification Response 3: What name was the Mk II sold under?
+Clarification Response 4: What name was the Mk V sold under?
+Clarification Response 5: Which car was it based on?
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  14%|█▎        | 54/400 [02:25<16:01,  2.78s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the historical date of the event, or when it is celebrated as a holiday?
+Clarification Response 1: The historical date.
+Clarification Response 2: The celebration date.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  14%|█▍        | 56/400 [02:31<16:01,  2.79s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the competing teams, the Man of the Match winner, the opening ceremony performers, or the anthem singers?
+Clarification Response 1: The competing teams.
+Clarification Response 2: The Man of the Match winner.
+Clarification Response 3: The opening ceremony performers.
+Clarification Response 4: The anthem singers.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  14%|█▍        | 58/400 [02:34<14:00,  2.46s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the primary sponsor or the alternate sponsor of the first season of The Flintstones?
+Clarification Response 1: Primary sponsor.
+Clarification Response 2: Alternate sponsor.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  15%|█▌        | 61/400 [02:43<15:25,  2.73s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the current president pro tempore, or a specific past term like 2015–2020, 2003–2015, or 2000–2003?
+Clarification Response 1: The current president pro tempore.
+Clarification Response 2: The 2015 to 2020 term.
+Clarification Response 3: The 2003 to 2015 term.
+Clarification Response 4: The 2000 to 2003 term.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  16%|█▌        | 63/400 [02:48<14:44,  2.62s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about Linda, her mother Gloria, or the character Mudflap?
+Clarification Response 1: Linda.
+Clarification Response 2: Gloria.
+Clarification Response 3: The mother of Logan Barry Bush.
+Clarification Response 4: Mudflap.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  16%|█▌        | 64/400 [02:53<16:31,  2.95s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the most recent win up to 2017, or specifically for a win that occurred before 2017?
+Clarification Response 1: Up to 2017.
+Clarification Response 2: Prior to 2017.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  16%|█▋        | 65/400 [02:58<19:10,  3.43s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the author who inspired the title, the specific work that inspired it, or a person from Harlem associated with "A Dream Deferred"?
+Clarification Response 1: The author who inspired the title.
+Clarification Response 2: The specific work that inspired the title.
+Clarification Response 3: A person from Harlem associated with "A Dream Deferred".
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  16%|█▋        | 66/400 [03:05<22:29,  4.04s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the character's name, or the voice actress from the TV series, the movie, or the Robo-WrestleMania special?
+Clarification Response 1: The character's name.
+Clarification Response 2: The TV series voice actress.
+Clarification Response 3: The movie voice actress.
+Clarification Response 4: The Robo-WrestleMania voice actress.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  17%|█▋        | 68/400 [03:10<19:49,  3.58s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the specific location within Nicaragua, the general region of impact, or a location in the U.S.?
+Clarification Response 1: The specific location within Nicaragua.
+Clarification Response 2: The general region of impact.
+Clarification Response 3: A location in the U.S.
+Clarification Response 4: The general region of impact.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  17%|█▋        | 69/400 [03:18<25:09,  4.56s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the TV show, the all-time career total, or the winner of a specific year (2015, 2016, or 2017)?
+Clarification Response 1: The TV show.
+Clarification Response 2: All-time career total.
+Clarification Response 3: 2017 winner.
+Clarification Response 4: 2016 winner.
+Clarification Response 5: 2015 winner.
+Clarification Response 6: Single derby record holder.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  18%|█▊        | 70/400 [03:24<26:00,  4.73s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the premiere dates for Season 1 or Season 2, or the finale dates for either season?
+Clarification Response 1: Season 1 premiere.
+Clarification Response 2: Season 2 premiere.
+Clarification Response 3: Season 1 finale.
+Clarification Response 4: Season 2 finale.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  18%|█▊        | 73/400 [03:31<19:48,  3.64s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the original singer, or a specific cover version from 1968, 1974, 1993, or 2005?
+Clarification Response 1: The original singer.
+Clarification Response 2: The 1968 cover.
+Clarification Response 3: The 1974 version.
+Clarification Response 4: The 1993 version.
+Clarification Response 5: The 2005 version.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  18%|█▊        | 74/400 [03:34<19:12,  3.54s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the discovery of non-commercial amounts of crude oil, or commercial amounts?
+Clarification Response 1: Non-commercial amounts.
+Clarification Response 2: Commercial amounts.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  20%|█▉        | 78/400 [03:42<14:41,  2.74s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the video game release date, or the specific anime episodes (Ultra Adventures 995-997 or Ultra Legends)?
+Clarification Response 1: The video game release date.
+Clarification Response 2: Ultra Adventures episode 997.
+Clarification Response 3: Ultra Adventures episode 996.
+Clarification Response 4: Ultra Adventures episode 995.
+Clarification Response 5: The first Ultra Legends episode in English.
+Clarification Response 6: The first Ultra Legends episode originally.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  20%|█▉        | 79/400 [03:47<15:47,  2.95s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who loved Helena because of the love potion, or who loves her after the potion wears off?
+Clarification Response 1: The character affected by the potion.
+Clarification Response 2: The character who loves her after the potion wears off.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  20%|██        | 80/400 [03:53<19:14,  3.61s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about an actor who died during filming, or a character killed by Shaw or Hobbs in the movie?
+Clarification Response 1: An actor who died during filming.
+Clarification Response 2: A character killed by Shaw.
+Clarification Response 3: A character killed by Hobbs.
+Clarification Response 4: An actor killed by Shaw.
+Clarification Response 5: An actor killed by Hobbs.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  20%|██        | 81/400 [04:01<24:07,  4.54s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the first motion-picture film, the first sync-sound musical film, Monkeyshines, a specific proto-movie, or the date it was first projected?
+Clarification Response 1: The first motion-picture film.
+Clarification Response 2: The first sync-sound musical film.
+Clarification Response 3: Monkeyshines.
+Clarification Response 4: The first projected proto-movie.
+Clarification Response 5: When it was first projected.
+Clarification Response 6: The first sync-sound film.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  20%|██        | 82/400 [04:04<22:02,  4.16s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the origin of charge signs in ions or in electricity?
+Clarification Response 1: In ions.
+Clarification Response 2: In electricity.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  22%|██▏       | 86/400 [04:09<13:00,  2.49s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the men's FIFA World Cup, the women's Rugby World Cup, or the men's Rugby World Cup?
+Clarification Response 1: Men's FIFA World Cup.
+Clarification Response 2: Women's Rugby World Cup.
+Clarification Response 3: Men's Rugby World Cup.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  22%|██▏       | 87/400 [04:22<22:26,  4.30s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the current Minister, or a specific past Deputy Minister on dates like Sept 8, 2011, Aug 19, 2011, Aug 9, 2010, or June 15, 2009?
+Clarification Response 1: Current Minister as of June 2014.
+Clarification Response 2: Minister as of Sept 8, 2011.
+Clarification Response 3: Deputy Minister as of Sept 8, 2011.
+Clarification Response 4: Minister as of Aug 19, 2011.
+Clarification Response 5: Deputy Minister as of Aug 9, 2010.
+Clarification Response 6: Deputy Minister as of June 15, 2009.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  22%|██▏       | 89/400 [04:32<23:41,  4.57s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about WWI fragmentation grenades (first, updated, or stick type), US ET-MP grenades, Mills bomb delays before/after 1940, or WWII thermite?
+Clarification Response 1: First World War fragmentation grenades.
+Clarification Response 2: Updated World War I fragmentation grenades.
+Clarification Response 3: WWI stick grenade.
+Clarification Response 4: US ET-MP grenade.
+Clarification Response 5: Mills bomb delay before 1940.
+Clarification Response 6: Mills bomb delay after 1940.
+Clarification Response 7: WWII era thermite.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  24%|██▎       | 94/400 [04:36<13:00,  2.55s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the specific name of such a primary, or a list of all primary types that do not label parties?
+Clarification Response 1: Just the specific name.
+Clarification Response 2: A list of all such types.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  24%|██▍       | 95/400 [04:40<13:56,  2.74s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the specific Fox affiliate Sinclair owns in Wichita, or the MyNetworkTV affiliate they own there?
+Clarification Response 1: The Fox affiliate in Wichita.
+Clarification Response 2: The MyNetworkTV affiliate in Wichita.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  24%|██▍       | 96/400 [04:46<16:12,  3.20s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the highest-paid NBA player for the 2017-2018 season or the 2016-2017 season?
+Clarification Response 1: The 2017-2018 season.
+Clarification Response 2: The 2016-2017 season.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  24%|██▍       | 97/400 [04:50<17:06,  3.39s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the specific timing rules for substitutions during a match, or the limits on how many times a team can substitute players?
+Clarification Response 1: The specific timing rules.
+Clarification Response 2: The limits on substitution frequency.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  25%|██▌       | 100/400 [04:54<12:32,  2.51s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for a general overview of the split's causes, or specifically about the doctrinal disagreements that led to it?
+Clarification Response 1: A general overview of the split's causes.
+Clarification Response 2: Specifically about the doctrinal disagreements.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  25%|██▌       | 101/400 [05:01<15:57,  3.20s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the name of Henry's biological father, his step-father, or the actors who play them?
+Clarification Response 1: The character who is Henry's biological father.
+Clarification Response 2: The actor who plays Henry's biological father.
+Clarification Response 3: The character who is Henry's step-father.
+Clarification Response 4: The actor who plays Henry's step-father.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  26%|██▌       | 102/400 [05:06<17:18,  3.49s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the singers' origins, the band they formed, or the specific music video that popularized the song?
+Clarification Response 1: The singers' origins.
+Clarification Response 2: The band they formed.
+Clarification Response 3: The specific music video.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  26%|██▋       | 106/400 [05:09<10:15,  2.09s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the historical origin of the phrase, or why it became popular?
+Clarification Response 1: The first instance of the saying.
+Clarification Response 2: Where its popularity came from.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  27%|██▋       | 107/400 [05:15<13:32,  2.77s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which eruption are you referring to: the 1980, the 2004-2008, or the 1860 BC event?
+Clarification Response 1: The 1980 eruption.
+Clarification Response 2: The 2004-2008 eruption.
+Clarification Response 3: The 1860 BC eruption.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  27%|██▋       | 109/400 [05:20<12:34,  2.59s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking when Williamsburg ceased to be the capital, or when Richmond first became the capital?
+Clarification Response 1: When Williamsburg ceased to be the capital.
+Clarification Response 2: When Richmond first became the capital.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  29%|██▉       | 115/400 [05:24<07:17,  1.53s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the start date of the 2018 men's World Cup or the 2018 women's World Cup?
+Clarification Response 1: The men's World Cup.
+Clarification Response 2: The women's World Cup.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  29%|██▉       | 116/400 [05:30<09:34,  2.02s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the release date of the film in North America, outside North America, or the soundtrack/score?
+Clarification Response 1: North America.
+Clarification Response 2: Outside North America.
+Clarification Response 3: The soundtrack.
+Clarification Response 4: The score.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  29%|██▉       | 117/400 [05:35<11:29,  2.43s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the year the franchise was officially re-established, or specifically when they returned to play games in the NFL?
+Clarification Response 1: When the franchise was officially re-established.
+Clarification Response 2: When they returned to play games in the NFL.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  30%|███       | 120/400 [05:38<08:54,  1.91s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking when July 4th became an unpaid or a paid national holiday for federal employees?
+Clarification Response 1: Unpaid.
+Clarification Response 2: Paid.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  30%|███       | 122/400 [05:44<10:07,  2.19s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who co-wrote and performed the song, who provided studio time to the original artist, or who wrote it specifically for Panic Prevention?
+Clarification Response 1: The person who co-wrote and performed.
+Clarification Response 2: The person who gave studio time.
+Clarification Response 3: The writer for Panic Prevention.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  31%|███▏      | 125/400 [05:48<08:57,  1.95s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the partial takeover, the full takeover of Verizon's wired operations, or just when that full takeover was announced?
+Clarification Response 1: The partial takeover.
+Clarification Response 2: The full takeover.
+Clarification Response 3: When it was announced.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  32%|███▏      | 126/400 [05:52<10:11,  2.23s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the specific calendar year or the NFL season designation of the last time the Buffalo Bills won their division?
+Clarification Response 1: The specific calendar year.
+Clarification Response 2: The NFL season designation.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  32%|███▏      | 127/400 [05:58<13:11,  2.90s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the typical implantation site in a normal pregnancy, or the specific locations where ectopic pregnancies occur?
+Clarification Response 1: The typical site in a normal pregnancy.
+Clarification Response 2: Locations during an ectopic pregnancy.
+Clarification Response 3: The site in a normal pregnancy.
+Clarification Response 4: The site in an ectopic pregnancy.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  32%|███▏      | 128/400 [06:07<18:00,  3.97s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which stadium are you referring to (Wembley or JFK), and do you mean the very first performance (including opening acts) or the first main musical act?
+Clarification Response 1: Wembley, first performance.
+Clarification Response 2: JFK, first performance.
+Clarification Response 3: Wembley, prior to first musical act.
+Clarification Response 4: JFK, prior to first musical act.
+Clarification Response 5: Wembley, first main act.
+Clarification Response 6: JFK, first act.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  32%|███▏      | 129/400 [06:10<17:28,  3.87s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the specific date Toronto hosted the MLB All-Star Game, or which year's game it was?
+Clarification Response 1: The specific date.
+Clarification Response 2: The year.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  33%|███▎      | 131/400 [06:15<14:36,  3.26s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the ancient Roman model, the British House of Lords, or the underlying political desire behind its creation?
+Clarification Response 1: The ancient Roman model.
+Clarification Response 2: The British House of Lords.
+Clarification Response 3: The underlying political desire.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  34%|███▎      | 134/400 [06:19<10:30,  2.37s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who Hannah Montana picks between Jake and Jessie in the original plot, or who she ends up with by the series finale?
+Clarification Response 1: Originally.
+Clarification Response 2: At the end of the series.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  34%|███▍      | 137/400 [06:24<09:23,  2.14s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the main river in Salzburg, a specific river that is 11 miles long, or the right tributary of the Salzach?
+Clarification Response 1: The main river.
+Clarification Response 2: The 11-mile river.
+Clarification Response 3: The right tributary of the Salzach.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  35%|███▍      | 139/400 [06:29<09:52,  2.27s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the specific king, the name of the empire, or the military leader who defeated the Marathas?
+Clarification Response 1: The specific king.
+Clarification Response 2: The name of the empire.
+Clarification Response 3: Which empire.
+Clarification Response 4: The military leader.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  36%|███▌      | 142/400 [06:35<09:04,  2.11s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the first year of production in Japan, the unveiling year of the production version, or the start year of the second generation?
+Clarification Response 1: First year of production in Japan.
+Clarification Response 2: Unveiling year of the production version.
+Clarification Response 3: Start year of the second generation.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  36%|███▌      | 143/400 [06:39<10:08,  2.37s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the specific salesgirl featured, or the group of "Eliminator" girls from that ZZ Top video?
+Clarification Response 1: The salesgirl.
+Clarification Response 2: The Eliminator girls.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  36%|███▌      | 144/400 [06:45<13:30,  3.17s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking which character or which actor said "hakuna matata," and are you referring to the original film or *The Lion King 1½*?
+Clarification Response 1: The character in the original film.
+Clarification Response 2: The character in *The Lion King 1½*.
+Clarification Response 3: The actor in the original film.
+Clarification Response 4: The actor in *The Lion King 1½*.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  37%|███▋      | 147/400 [06:56<13:51,  3.29s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the artist of the 1975 song "Love Machine," or specifically who performs the lead, background, or "Yeah, baby" vocals? Or are you referring to a different 2004 song with the same title?
+Clarification Response 1: The artist of the 1975 song.
+Clarification Response 2: The lead vocalist on the 1975 song.
+Clarification Response 3: The background vocalist on the 1975 song.
+Clarification Response 4: The "Yeah, baby" vocalist on the 1975 song.
+Clarification Response 5: The artist of the 2004 song.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  37%|███▋      | 149/400 [07:00<12:11,  2.92s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about Elvis Presley's version of "In the Ghetto" or Busta Rhymes' version?
+Clarification Response 1: Elvis Presley's version.
+Clarification Response 2: Busta Rhymes' version.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  38%|███▊      | 151/400 [07:11<15:26,  3.72s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which year (2017, 2016, or 2015) and which specific criteria (the Liberty fire, the first fire over 1000 acres, or the last fire over 1000 acres)?
+Clarification Response 1: The Liberty fire in 2017.
+Clarification Response 2: The first fire over 1000 acres in 2017.
+Clarification Response 3: The first fire over 1000 acres in 2016.
+Clarification Response 4: The first fire over 1000 acres in 2015.
+Clarification Response 5: The last fire over 1000 acres in 2015.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  38%|███▊      | 153/400 [07:23<18:10,  4.42s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which specific time period are you asking about: December 2017, November 2017, October 2017, Feb 2017–Feb 2018, Dec 2016–Jan 2017, or May 2016–Nov 2016?
+Clarification Response 1: December 2017.
+Clarification Response 2: November 2017.
+Clarification Response 3: October 2017.
+Clarification Response 4: February 2017 to February 2018.
+Clarification Response 5: December 2016 to January 2017.
+Clarification Response 6: May 2016 to November 2016.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  38%|███▊      | 154/400 [07:29<18:57,  4.62s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the current (present) Game Minister, or specifically the 10th, 11th, or 12th one?
+Clarification Response 1: The 12th Game Minister.
+Clarification Response 2: The 11th Game Minister.
+Clarification Response 3: The 10th Game Minister.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  39%|███▉      | 155/400 [07:36<20:42,  5.07s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which specific source are you looking for: Wikipedia, the American breed club, a general club survey, UK veterinary data, or the French Kennel Club database?
+Clarification Response 1: Wikipedia's overall assessment.
+Clarification Response 2: The American breed club.
+Clarification Response 3: A club survey.
+Clarification Response 4: Veterinary clinic data from the UK.
+Clarification Response 5: The French Kennel Club database.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  39%|███▉      | 156/400 [07:42<21:27,  5.28s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the most men's senior, reserves, or U19 premierships, or the most women's premierships?
+Clarification Response 1: Men's senior premierships.
+Clarification Response 2: Men's reserves premierships.
+Clarification Response 3: Men's under-19s premierships.
+Clarification Response 4: Women's premierships.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  40%|███▉      | 158/400 [07:45<15:42,  3.89s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the number of years Deion Sanders played in Major League Baseball (MLB) or in college baseball?
+Clarification Response 1: MLB.
+Clarification Response 2: College.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  40%|███▉      | 159/400 [07:49<15:24,  3.83s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about an unincorporated community or an incorporated city in Texas with the highest elevation?
+Clarification Response 1: An unincorporated community.
+Clarification Response 2: An incorporated city.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  41%|████▏     | 165/400 [07:53<06:51,  1.75s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the general location of bonding electrons, or their specific distribution relative to each atom?
+Clarification Response 1: The general location of bonding electrons.
+Clarification Response 2: Their specific distribution relative to each atom.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  42%|████▏     | 166/400 [07:56<07:44,  1.99s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking which historical group or specific individual was responsible for shifting the capital from Calcutta to Delhi?
+Clarification Response 1: The British government.
+Clarification Response 2: Lord Curzon.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  42%|████▏     | 167/400 [07:59<08:26,  2.17s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who wrote the lyrics or who composed the music for "Mary Did You Know"?
+Clarification Response 1: The lyrics.
+Clarification Response 2: The music.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  42%|████▏     | 168/400 [08:04<10:16,  2.66s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about players from the AFC, players from the NFC, or the performers in the Super Bowl XLVII halftime show?
+Clarification Response 1: Players from the AFC.
+Clarification Response 2: Players from the NFC.
+Clarification Response 3: Performers in the halftime show.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  42%|████▏     | 169/400 [08:08<11:36,  3.01s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the character names, the actor names, or a specific person from "Candy Butchers"?
+Clarification Response 1: The character names.
+Clarification Response 2: The actor names.
+Clarification Response 3: From Candy Butchers.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  43%|████▎     | 171/400 [08:13<10:20,  2.71s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the instrument invented in 1950 or the one invented in 1960?
+Clarification Response 1: The one invented in 1950.
+Clarification Response 2: The one invented in 1960.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  44%|████▎     | 174/400 [08:17<08:00,  2.13s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about New Zealand's first win, their first successful defense, or their second victory in the America's Cup?
+Clarification Response 1: First win.
+Clarification Response 2: First defense.
+Clarification Response 3: Second victory.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  44%|████▍     | 177/400 [08:24<08:05,  2.18s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which region are you asking about: Japan, America, Eastern Europe, or a global standard like Europe/Australia/Africa?
+Clarification Response 1: Japan.
+Clarification Response 2: America.
+Clarification Response 3: Eastern Europe.
+Clarification Response 4: U.S. specific channel number.
+Clarification Response 5: Europe, Australia, and Africa.
+Clarification Response 6: Global standard or unspecified region.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  45%|████▍     | 179/400 [08:28<07:59,  2.17s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the historical setting of the show, or the years it was actually broadcast on television?
+Clarification Response 1: The years it was broadcast.
+Clarification Response 2: The historical setting.
+Clarification Response 3: The broadcast years.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  46%|████▌     | 182/400 [08:34<07:44,  2.13s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the specific politician who used the slogan, the type of legislation it refers to, the speech where it was introduced, or the broader set of domestic programs it accompanied?
+Clarification Response 1: The specific politician.
+Clarification Response 2: The type of legislation.
+Clarification Response 3: The specific speech.
+Clarification Response 4: The broader set of domestic programs.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  46%|████▋     | 186/400 [08:37<05:38,  1.58s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking when the first Fast & Furious movie was filmed or when it was released to theaters?
+Clarification Response 1: Filmed.
+Clarification Response 2: Released.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  47%|████▋     | 187/400 [08:43<07:15,  2.04s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking when the story was adapted into a song, when it was first recorded, or when it was first performed live?
+Clarification Response 1: When the story was adapted into a song.
+Clarification Response 2: When it was first recorded.
+Clarification Response 3: When it was first performed live.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  47%|████▋     | 188/400 [08:47<08:15,  2.34s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the physical object, its symbolic meaning, or its historical function?
+Clarification Response 1: The physical object.
+Clarification Response 2: Its symbolic meaning.
+Clarification Response 3: Its historical function.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  48%|████▊     | 192/400 [08:53<06:54,  1.99s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the time limit for a typical question, Final Jeopardy, the online test, or specifically the first two rounds versus the final round?
+Clarification Response 1: A typical question.
+Clarification Response 2: Final Jeopardy.
+Clarification Response 3: The online test.
+Clarification Response 4: The first two rounds.
+Clarification Response 5: The last round.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  48%|████▊     | 193/400 [09:00<09:16,  2.69s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about US, Canadian, or New Zealand 20 dollar bills, and do you mean the first issue date or the current series release date?
+Clarification Response 1: First issue date for current US series.
+Clarification Response 2: Release date for current US series.
+Clarification Response 3: Start date for new Canadian 20s.
+Clarification Response 4: Start date for new New Zealand 20s.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  49%|████▉     | 195/400 [09:10<11:39,  3.41s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about a specific TV adaptation (silent, musical, BBC, animated, or Channel 4), the 2016 film's release in London or the US, or the original novel?
+Clarification Response 1: The silent movie version.
+Clarification Response 2: The TV musical version.
+Clarification Response 3: The BBC TV movie.
+Clarification Response 4: The animated TV movie.
+Clarification Response 5: The Channel 4 TV movie.
+Clarification Response 6: The 2016 film in London.
+Clarification Response 7: The 2016 film in the US.
+Clarification Response 8: The original novel.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  50%|█████     | 201/400 [09:16<06:51,  2.07s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the specific liquid the rood is drenched in beyond gems in Section One, the substance in Section Two, or the precious items it is drenched with in Section One?
+Clarification Response 1: The liquid beyond gems in Section One.
+Clarification Response 2: The substance in Section Two.
+Clarification Response 3: The precious items in Section One.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  51%|█████▏    | 205/400 [09:20<05:21,  1.65s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the date of the Apple TV 4K announcement or its official release date?
+Clarification Response 1: The announcement date.
+Clarification Response 2: The release date.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  52%|█████▏    | 206/400 [09:27<07:32,  2.33s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the all-time worst regular season record, the worst playoff record, or the worst record for a specific year (2015, 2016, or 2017)?
+Clarification Response 1: All-time worst regular season record.
+Clarification Response 2: Worst playoff record.
+Clarification Response 3: 2017 season.
+Clarification Response 4: 2016 season.
+Clarification Response 5: 2015 season.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  52%|█████▏    | 208/400 [09:33<07:42,  2.41s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which of Shania Twain's tours are you referring to: Rock This Country, Up!, Now, or Come On Over?
+Clarification Response 1: Rock This Country Tour.
+Clarification Response 2: Up! Tour.
+Clarification Response 3: Now Tour.
+Clarification Response 4: Come On Over Tour.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  52%|█████▏    | 209/400 [09:40<10:07,  3.18s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the principal filming locations, or specific scenes like the exterior/main hall/other interiors/swimming pool and library?
+Clarification Response 1: Principal filming locations.
+Clarification Response 2: Exterior of the Lenox Mansion.
+Clarification Response 3: Main hall of the Lenox Mansion.
+Clarification Response 4: Interiors other than the main hall and Daryl's library.
+Clarification Response 5: Swimming pool and Daryl's library.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  53%|█████▎    | 212/400 [09:46<08:28,  2.70s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about a regular role played by Kyle Richards, a guest role by her, or a role played by Kyle Chavarria?
+Clarification Response 1: A regular role played by Kyle Richards.
+Clarification Response 2: A guest role played by Kyle Richards.
+Clarification Response 3: A role played by Kyle Chavarria.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  54%|█████▍    | 215/400 [09:51<07:01,  2.28s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the composer of the entire score, or specifically the writer of the song "Sticks & Stones"?
+Clarification Response 1: The composer of the entire score.
+Clarification Response 2: The writer of the song "Sticks & Stones".
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  54%|█████▍    | 217/400 [09:54<06:23,  2.10s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the Beatles' secret lead vocalist or their secret backing vocalist?
+Clarification Response 1: Lead vocalist.
+Clarification Response 2: Backing vocalist.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  55%|█████▍    | 218/400 [10:03<09:36,  3.17s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the original 1975 artist, the famous 1982 cover artist, or the 1998 version?
+Clarification Response 1: The original 1975 lead singer.
+Clarification Response 2: The band of the original 1975 version.
+Clarification Response 3: The 1982 cover artist.
+Clarification Response 4: The band from the 1998 version.
+Clarification Response 5: The vocalist from the 1998 version.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  55%|█████▍    | 219/400 [10:11<12:21,  4.10s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who first demonstrated the principle, who rediscovered it in the late 18th century, or who outlined its origins?
+Clarification Response 1: The person who first demonstrated and came up with it.
+Clarification Response 2: The person who rediscovered it in the late 18th century.
+Clarification Response 3: The person associated with the origins of the principle.
+Clarification Response 4: The person who was first to outline the principle.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  55%|█████▌    | 220/400 [10:14<11:44,  3.91s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking which peninsula Olympic National Park is on, or which counties it spans?
+Clarification Response 1: Which peninsula.
+Clarification Response 2: Which counties.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  55%|█████▌    | 221/400 [10:19<11:50,  3.97s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the name of the band that performs "Biggest Part of Me," or specifically who provides the lead vocals on that track?
+Clarification Response 1: The name of the band.
+Clarification Response 2: The lead vocalist.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  56%|█████▌    | 223/400 [10:24<09:56,  3.37s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the actress who played Ruth's mother in the 1989 version of Home and Away, or the one since 2018?
+Clarification Response 1: The 1989 version.
+Clarification Response 2: Since 2018.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  56%|█████▌    | 224/400 [10:30<11:49,  4.03s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the book "Delta of Venus," or the movie adaptation? Also, do you want the real-life author or the actor who played that character?
+Clarification Response 1: The author of the book.
+Clarification Response 2: The writer of the movie script.
+Clarification Response 3: The fictional author character in the movie.
+Clarification Response 4: The actor playing the author character.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  57%|█████▋    | 229/400 [10:37<06:53,  2.42s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which specific NBA season are you asking about: 2016-2017, 2015-2016, or 2014-2015?
+Clarification Response 1: 2016-2017.
+Clarification Response 2: 2015-2016.
+Clarification Response 3: 2014-2015.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  58%|█████▊    | 231/400 [10:43<07:10,  2.55s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about all roles across films, games, and archives; only non-Paul Newman English versions; or specifically the Rioplatense Spanish dub?
+Clarification Response 1: All roles across films, games, and archives.
+Clarification Response 2: Only non-Paul Newman English versions.
+Clarification Response 3: Specifically the Rioplatense Spanish dub.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  58%|█████▊    | 233/400 [10:46<06:30,  2.34s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the publication date of the hardcover or the paperback edition of the first Percy Jackson book?
+Clarification Response 1: The hardcover edition.
+Clarification Response 2: The paperback edition.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  58%|█████▊    | 234/400 [10:51<07:34,  2.74s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the Pokhran-I tests in 1998 or the Pokhran-II tests later that same year?
+Clarification Response 1: Pokhran-I in 1998.
+Clarification Response 2: Pokhran-II in 1998.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  59%|█████▉    | 235/400 [10:56<08:38,  3.14s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the artist of the song "Wake Me Up," or the singer of the 1962 song "Wake Me When It's Over"?
+Clarification Response 1: The artist of "Wake Me Up."
+Clarification Response 2: The singer of the 1962 song.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  60%|█████▉    | 239/400 [11:02<06:19,  2.36s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the Easybeats' "Land of Make Believe," Bucks Fizz's "The Land of Make Believe," or the Dionne Warwick/Dusty Springfield version?
+Clarification Response 1: The Easybeats' "Land of Make Believe."
+Clarification Response 2: Bucks Fizz's "The Land of Make Believe."
+Clarification Response 3: The Dionne Warwick and Dusty Springfield version.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  60%|██████    | 241/400 [11:06<05:47,  2.19s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who from Mississippi or who from North Carolina wrote "Forever and Ever Amen"?
+Clarification Response 1: The person from Mississippi.
+Clarification Response 2: The person from North Carolina.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  61%|██████    | 243/400 [11:20<09:20,  3.57s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the five stars forming the Southern Cross, or one of the other specific seven-pointed or five-pointed stars located elsewhere on the flag?
+Clarification Response 1: The large seven-pointed white star.
+Clarification Response 2: The five white stars further from the staff.
+Clarification Response 3: The 7-pointed star centred in lower hoist.
+Clarification Response 4: The 7-pointed star straight below centre fly.
+Clarification Response 5: The 7-pointed star 1/4 left and 1/16 up from centre fly.
+Clarification Response 6: The 7-pointed star straight above centre fly.
+Clarification Response 7: The 7-pointed star 2/9 right and 31/240 up from centre fly.
+Clarification Response 8: The 5-pointed star 1/10 right and 1/24 down from centre fly.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  61%|██████    | 244/400 [11:25<09:42,  3.73s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking when the 13th Amendment reached the required number of ratifications, or when the very first state ratified it?
+Clarification Response 1: The date it reached the required number of ratifications.
+Clarification Response 2: The date the first state ratified it.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  61%|██████▏   | 245/400 [11:32<11:09,  4.32s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which specific Trump golf club are you asking about (Westchester, Palm Beach, or Bedminster), and are you looking for annual dues or initiation fees?
+Clarification Response 1: Westchester annual dues.
+Clarification Response 2: Palm Beach membership cost.
+Clarification Response 3: Westchester initiation fee.
+Clarification Response 4: Trump International Golf Club initiation fee.
+Clarification Response 5: Bedminster membership cost.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  62%|██████▏   | 246/400 [11:35<10:44,  4.18s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the specific calendar date he left, or the name of the episode where he appeared last?
+Clarification Response 1: The specific calendar date.
+Clarification Response 2: The name of the episode.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  62%|██████▏   | 248/400 [11:40<08:43,  3.45s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who *developed* the question-and-answer method, or who is a famous *user* of it (like Socrates)?
+Clarification Response 1: The person who developed the method.
+Clarification Response 2: A famous user of the Socratic Method.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  62%|██████▎   | 250/400 [11:46<08:09,  3.26s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the soft opening or the public opening, and was it at Islands of Adventure or Universal Studios Florida?
+Clarification Response 1: Soft opening at Islands of Adventure.
+Clarification Response 2: Public opening at Islands of Adventure.
+Clarification Response 3: Soft opening at Universal Studios Florida.
+Clarification Response 4: Public opening at Universal Studios Florida.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  63%|██████▎   | 251/400 [11:53<10:11,  4.11s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the combined total, the highest single-team score (regular season or playoffs), or the most points by an individual player?
+Clarification Response 1: Combined team total.
+Clarification Response 2: Highest single-team score overall.
+Clarification Response 3: Most points by an individual player.
+Clarification Response 4: Regular season single-team high.
+Clarification Response 5: Regular season, regulation only.
+Clarification Response 6: Playoff single-team high.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  63%|██████▎   | 253/400 [11:58<08:26,  3.44s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the lyricist, or the composer of the traditional Webb or Geibel melodies?
+Clarification Response 1: The lyricist.
+Clarification Response 2: The composer of the Webb melody.
+Clarification Response 3: The composer of the Geibel melody.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  64%|██████▍   | 255/400 [12:01<06:57,  2.88s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the host country or the specific host cities of the 2022 FIFA World Cup?
+Clarification Response 1: The host country.
+Clarification Response 2: The host cities.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  64%|██████▍   | 256/400 [12:05<07:27,  3.11s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the actress who played the daughter in the first *Garage Sale Mystery* film, or in the subsequent films?
+Clarification Response 1: The first film.
+Clarification Response 2: The films after the first one.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  65%|██████▍   | 259/400 [12:11<05:54,  2.51s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the name of the prestigious Delta house, the specific frat hosting the toga party, or the real-life fraternities that inspired the movie?
+Clarification Response 1: The prestigious Delta house.
+Clarification Response 2: The frat hosting the toga party.
+Clarification Response 3: The real-life inspirations for the movie.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  65%|██████▌   | 261/400 [12:18<06:38,  2.87s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which season of "So You Think You Can Dance" are you asking about, or do you mean the 2015 season specifically?
+Clarification Response 1: Season 14 (2017).
+Clarification Response 2: Season 13 (2016).
+Clarification Response 3: Season 16.
+Clarification Response 4: Season 15.
+Clarification Response 5: The 2015 season.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  67%|██████▋   | 267/400 [12:30<05:19,  2.41s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which time period are you asking about: 1991–1992, 1993–2002, 2003–2010, 2011–2012, 2013–2014, or since 2015?
+Clarification Response 1: 1991 and 1992.
+Clarification Response 2: 1993 to 2002.
+Clarification Response 3: 2003 to 2010.
+Clarification Response 4: 2011 to 2012.
+Clarification Response 5: 2013 to 2014.
+Clarification Response 6: Since 2015.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  67%|██████▋   | 268/400 [12:35<05:46,  2.62s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the general region of the Danube in Europe, or specifically which countries and cities it flows through?
+Clarification Response 1: The general region.
+Clarification Response 2: Which countries.
+Clarification Response 3: Which cities.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  67%|██████▋   | 269/400 [12:42<07:15,  3.33s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the original Bing Crosby song, a specific EP, or one of the films (1988 or 1998) or the Brian McKnight album?
+Clarification Response 1: The original Bing Crosby song.
+Clarification Response 2: The specific EP.
+Clarification Response 3: The 1988 film.
+Clarification Response 4: The 1998 film.
+Clarification Response 5: The Brian McKnight album.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  68%|██████▊   | 271/400 [12:45<06:06,  2.84s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about Francis Ouimet's victory in the US Open playoffs or the final round?
+Clarification Response 1: The US Open playoffs.
+Clarification Response 2: The final round.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  68%|██████▊   | 272/400 [12:50<06:53,  3.23s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking when Sunday became the seventh day and the Sabbath, or when it was designated as the first day under ISO 8601?
+Clarification Response 1: When it became the seventh day and the Sabbath.
+Clarification Response 2: When it became the first day via ISO 8601.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  68%|██████▊   | 273/400 [12:56<07:48,  3.69s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the names of the winning skaters or the name of their country?
+Clarification Response 1: The names of the winning skaters.
+Clarification Response 2: The name of the winning country.
+Clarification Response 3: The name of the winning country.
+Clarification Response 4: The names of the winning people.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  69%|██████▉   | 276/400 [13:03<06:16,  3.03s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the founding of the International Committee for Relief to the Wounded, the first national societies, the inspiring book, or the specific battle that inspired Henry Dunant?
+Clarification Response 1: The International Committee for Relief to the Wounded.
+Clarification Response 2: The first national societies.
+Clarification Response 3: The driving book behind its creation.
+Clarification Response 4: The battle that inspired Dunant.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  69%|██████▉   | 277/400 [13:07<06:46,  3.30s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the first person overall, the first woman specifically, or the very first instance in history?
+Clarification Response 1: The first person overall.
+Clarification Response 2: The first woman specifically.
+Clarification Response 3: The very first instance in history.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  70%|██████▉   | 278/400 [13:11<07:00,  3.45s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who played Ingrid during her first appearance, or who took over the role after her initial departure?
+Clarification Response 1: The actress from her first appearance.
+Clarification Response 2: The actress who replaced her later.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  70%|██████▉   | 279/400 [13:15<07:09,  3.55s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the actress who played Eric's sister in seasons 1–5, or the one from season 6?
+Clarification Response 1: Seasons 1–5.
+Clarification Response 2: Season 6.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  70%|███████   | 282/400 [13:19<04:42,  2.40s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the South Korean drama "Lie to Me" or the American TV series with a similar title?
+Clarification Response 1: The South Korean version.
+Clarification Response 2: The American version.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  72%|███████▏  | 287/400 [13:27<03:38,  1.94s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which Justice League media are you referring to: the 2017 film, the 2001 TV series, Justice League Unlimited, Crisis on Two Earths, or Justice League: War?
+Clarification Response 1: The 2017 film.
+Clarification Response 2: The 2001 TV series.
+Clarification Response 3: Justice League Unlimited.
+Clarification Response 4: Crisis on Two Earths.
+Clarification Response 5: Justice League: War.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  72%|███████▎  | 290/400 [13:33<03:34,  1.95s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the artist of the classic song "Somebody's Watching Me," or specifically who sang the line "It always feels like somebody's watching me" in a 1997 release?
+Clarification Response 1: The artist of "Somebody's Watching Me."
+Clarification Response 2: The singer of that specific line from the 1997 song.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  73%|███████▎  | 293/400 [13:44<04:33,  2.55s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which year and version are you asking about: 1982, 1987, 1967, or 1996? Are you asking for the original band, the lead singer, or a specific cover/dance version?
+Clarification Response 1: The 1987 song.
+Clarification Response 2: The band that originated the 1982 song.
+Clarification Response 3: The lead singer of the 1982 song.
+Clarification Response 4: The 1967 song.
+Clarification Response 5: The 1982 song (general).
+Clarification Response 6: The 1996 dance version.
+Clarification Response 7: The 1987 version.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  75%|███████▌  | 300/400 [13:52<03:05,  1.85s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the total number of sports disciplines, or the number of events in a specific year (2018, 2014, or 2010)?
+Clarification Response 1: Total number of sports disciplines.
+Clarification Response 2: Total number of sports disciplines.
+Clarification Response 3: Number of events in 2018.
+Clarification Response 4: Number of events in 2014.
+Clarification Response 5: Number of events in 2010.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  75%|███████▌  | 301/400 [13:57<03:25,  2.08s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who returned Sam Winchester's soul, or which character/actor requested this from Death?
+Clarification Response 1: Who returned his soul.
+Clarification Response 2: Which character asked Death.
+Clarification Response 3: Which actor asked Death.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  76%|███████▌  | 302/400 [14:06<04:45,  2.91s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the 1996 film release dates, the upcoming "Resurgence" movie, or a UK stage play? Also, are you looking for a specific theater location or nationwide availability?
+Clarification Response 1: The 1996 Mann Plaza Theater screening.
+Clarification Response 2: The 1996 nationwide US release.
+Clarification Response 3: The "Resurgence" movie at TCL Chinese Theatre.
+Clarification Response 4: The "Resurgence" movie nationwide in the US.
+Clarification Response 5: The UK stage play broadcast date.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  76%|███████▌  | 304/400 [14:15<05:22,  3.35s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about a specific year (2001, 2011, or 1990), and are you looking for any roller coaster, specifically wooden ones, or a different type of ride like a swing or tower?
+Clarification Response 1: Tallest roller coaster in 2001.
+Clarification Response 2: Tallest wooden roller coaster in 2011.
+Clarification Response 3: Tallest wooden roller coaster in 1990.
+Clarification Response 4: Tallest swing ride.
+Clarification Response 5: Tallest triple drop tower ride.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  76%|███████▋  | 306/400 [14:24<05:43,  3.65s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the first transverse twin-rotor, first manned (2 ft/1 min), first truly free with a pilot, first turbine-powered, or just the very first helicopter ever made and flown?
+Clarification Response 1: First transverse twin-rotor.
+Clarification Response 2: First manned (2 ft/1 min).
+Clarification Response 3: First truly free with a pilot.
+Clarification Response 4: First turbine-powered.
+Clarification Response 5: Just the very first one ever made.
+Clarification Response 6: Just when it first flew.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  77%|███████▋  | 307/400 [14:29<05:57,  3.85s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which year are you referring to: 2016, 1908, or 1907?
+Clarification Response 1: 2016.
+Clarification Response 2: 1908.
+Clarification Response 3: 1907.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  77%|███████▋  | 308/400 [14:34<06:20,  4.14s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking where free settlers first arrived in 1787, what name they gave to the place, or what it is called today?
+Clarification Response 1: Where they first arrived in 1787.
+Clarification Response 2: The name they gave it.
+Clarification Response 3: What it is called today.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  78%|███████▊  | 311/400 [14:42<05:10,  3.49s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the name of the athlete who won gold, silver, or bronze, or are you asking for the country that won those medals?
+Clarification Response 1: The gold medalist's name.
+Clarification Response 2: The silver medalist's name.
+Clarification Response 3: The bronze medalist's name.
+Clarification Response 4: The country that won gold.
+Clarification Response 5: The country that won silver.
+Clarification Response 6: The country that won bronze.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  79%|███████▉  | 317/400 [14:47<02:43,  1.97s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the frontal branch, the lacrimal nerve, or the nasociliary branch of the ophthalmic nerve?
+Clarification Response 1: The frontal branch.
+Clarification Response 2: The lacrimal nerve.
+Clarification Response 3: The nasociliary branch.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  80%|███████▉  | 319/400 [14:58<03:38,  2.70s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which specific year or event are you asking about: the 2000, 2001, 2002, 2009, or 2010 NBA Finals, or the Olympic finals in 2008 or 2012?
+Clarification Response 1: 2002 NBA Finals.
+Clarification Response 2: 2001 NBA Finals.
+Clarification Response 3: 2000 NBA Finals.
+Clarification Response 4: 2009 NBA Finals.
+Clarification Response 5: 2010 NBA Finals.
+Clarification Response 6: Olympic finals in 2008 or 2012.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  80%|████████  | 320/400 [15:02<03:47,  2.84s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the movie, the TV series, or the video game?
+Clarification Response 1: The movie.
+Clarification Response 2: The TV series.
+Clarification Response 3: The video game.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  80%|████████  | 321/400 [15:06<04:03,  3.08s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the actress's real name, or the character's full name?
+Clarification Response 1: The actress's real name.
+Clarification Response 2: The character's full name.
+Clarification Response 3: The actress's real name.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  80%|████████  | 322/400 [15:11<04:31,  3.49s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the end of foreign government redemptions, the shift to a gold exchange standard, or the complete abandonment of the gold standard?
+Clarification Response 1: End of foreign government redemptions.
+Clarification Response 2: Shift to gold exchange standard.
+Clarification Response 3: Complete abandonment of the gold standard.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  81%|████████  | 323/400 [15:15<04:31,  3.53s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the last public execution or the most recent execution (including private ones) in Canada?
+Clarification Response 1: The last public execution.
+Clarification Response 2: The most recent execution.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  81%|████████  | 324/400 [15:19<04:35,  3.63s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for a list of specific countries from the Tripartite Pact, or just the collective name of the opposing alliance?
+Clarification Response 1: List of specific countries.
+Clarification Response 2: Collective name of the alliance.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  81%|████████▏ | 325/400 [15:24<05:00,  4.00s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the actor who played the Skin-Changer in the Hobbit movies, or the voice actor in the 2003 video game?
+Clarification Response 1: The actor in the Peter Jackson movies.
+Clarification Response 2: The voice actor in the 2003 video game.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  82%|████████▏ | 329/400 [15:37<04:11,  3.54s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the actor who played the main leprechaun (1993–2001), or specifically the character "Lubdan" in later films like *Origins* or *Returns*?
+Clarification Response 1: The main leprechaun from 1993 to 2001.
+Clarification Response 2: The main leprechaun in the 2014 movie.
+Clarification Response 3: The main leprechaun in the 2018 movie.
+Clarification Response 4: Lubdan from 1993 to 2001.
+Clarification Response 5: Lubdan in *Leprechaun: Origins*.
+Clarification Response 6: Lubdan in *Leprechaun Returns*.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  83%|████████▎ | 332/400 [15:41<03:02,  2.68s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who wrote that book according to Winston Smith's perspective, or according to O'Brien's perspective?
+Clarification Response 1: According to Winston Smith.
+Clarification Response 2: According to O'Brien.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  83%|████████▎ | 333/400 [15:44<03:05,  2.77s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about a man or a woman who was crucified on an X-shaped cross?
+Clarification Response 1: A man.
+Clarification Response 2: A woman.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  84%|████████▎ | 334/400 [15:48<03:19,  3.02s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about Fallout 76, Fallout 4, or the Fallout Shelter mobile game?
+Clarification Response 1: Fallout 76.
+Clarification Response 2: Fallout 4.
+Clarification Response 3: Fallout Shelter.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  84%|████████▍ | 335/400 [15:53<03:42,  3.42s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which country are you asking about for the 2018 MasterChef Junior premiere?
+Clarification Response 1: Thailand.
+Clarification Response 2: America.
+Clarification Response 3: Albania.
+Clarification Response 4: Greece.
+Clarification Response 5: Ukraine.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  84%|████████▍ | 336/400 [16:01<04:42,  4.41s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which specific queen are you asking about: Elizabeth II, Victoria, Anne, Anne (1665), Mary II, or Elizabeth I?
+Clarification Response 1: Elizabeth II.
+Clarification Response 2: Victoria.
+Clarification Response 3: Anne (1702).
+Clarification Response 4: Anne (1665).
+Clarification Response 5: Mary II.
+Clarification Response 6: Elizabeth I.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  84%|████████▍ | 338/400 [16:08<04:07,  3.99s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the winner of the Final Head of Household in the US version of Big Brother 20, or the winner of the final eviction vote in the UK's Celebrity Big Brother 20?
+Clarification Response 1: The winner of the Final HoH in Big Brother 20 (US).
+Clarification Response 2: The winner of the final vote in Celebrity Big Brother 20 (UK).
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  85%|████████▌ | 341/400 [16:12<02:45,  2.81s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for a general location of taste buds, or specific details about their distribution across different regions of the tongue?
+Clarification Response 1: Just where they are generally located.
+Clarification Response 2: Specific distribution across different regions.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  86%|████████▌ | 343/400 [16:22<03:19,  3.51s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about a specific backing vocalist (piano, bass, or rhythm guitar), the main lead singer for the whole album, or the lead singer for specific tracks like "Visions" or "Lyin' Eyes"?
+Clarification Response 1: The backing vocalist with piano.
+Clarification Response 2: The backing vocalist with bass guitar.
+Clarification Response 3: The backing vocalist with rhythm guitar.
+Clarification Response 4: The lead singer for the entire album.
+Clarification Response 5: The lead singer of "Visions".
+Clarification Response 6: The lead singer of "Lyin' Eyes" and "After the Thrill Is Gone".
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  86%|████████▌ | 344/400 [16:30<04:03,  4.34s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the song "You Got to Keep Your Head Up" from 2011, the one from 2009, or the famous track "Keep Ya Head Up"?
+Clarification Response 1: The version from February 24, 2011.
+Clarification Response 2: The version from August 26, 2011.
+Clarification Response 3: The version from 2009.
+Clarification Response 4: "Keep Ya Head Up".
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  86%|████████▋ | 345/400 [16:34<03:50,  4.19s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the original English release or the specific Spanish version of "Genie in a Bottle"?
+Clarification Response 1: The original English release.
+Clarification Response 2: The Spanish version.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  87%|████████▋ | 348/400 [16:38<02:31,  2.92s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about kingdoms that claimed ownership before 875, or those that claimed ownership after the 875 annexation?
+Clarification Response 1: Before 875.
+Clarification Response 2: After the 875 annexation.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  87%|████████▋ | 349/400 [16:46<03:10,  3.73s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the name of the character who is a mother, or the name of the actress playing that role? Also, do you mean the main Robinson family matriarch or Naoko's mother?
+Clarification Response 1: The name of the Robinson matriarch.
+Clarification Response 2: The actress playing the Robinson matriarch.
+Clarification Response 3: The name of Naoko's mother.
+Clarification Response 4: The actress playing Naoko's mother.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  88%|████████▊ | 351/400 [16:50<02:33,  3.13s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the name of the character who committed the murder, or the name of the actor who played that role?
+Clarification Response 1: The character's name.
+Clarification Response 2: The actor's name.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  88%|████████▊ | 352/400 [16:58<03:15,  4.07s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which season (4, 5, or 6) and do you mean when it first aired or when it last aired?
+Clarification Response 1: Season 4, first aired.
+Clarification Response 2: Season 4, last aired.
+Clarification Response 3: Season 5, first aired.
+Clarification Response 4: Season 5, last aired.
+Clarification Response 5: Season 6, first aired.
+Clarification Response 6: Season 6, last aired.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  88%|████████▊ | 353/400 [17:07<04:05,  5.23s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which year or time period are you asking about, and do you need the amount adjusted to 2018 USD?
+Clarification Response 1: 1789.
+Clarification Response 2: 1873.
+Clarification Response 3: 1909.
+Clarification Response 4: 1949.
+Clarification Response 5: 1969.
+Clarification Response 6: Since 2001, nominal value.
+Clarification Response 7: Since 2001, adjusted to 2018 USD.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  88%|████████▊ | 354/400 [17:19<05:10,  6.75s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the start of US funding, the specific legislation passed, Roosevelt's public confirmation of orders, or the official date/event of entry into the war?
+Clarification Response 1: When did the US start funding/supplying the second World War in Europe?
+Clarification Response 2: With the signing of what legislation did the US start funding/supplying the second World War in Europe?
+Clarification Response 3: When did Roosevelt publicly confirm the "shoot on sight" order, effectively entering the US in the second world war in Europe?
+Clarification Response 4: When did the US officially enter the second world war in europe?
+Clarification Response 5: Upon what event did the US officially enter the second world war in europe?
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  89%|████████▉ | 357/400 [17:27<03:24,  4.75s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the song "Rock With You" from 1979, or a different song titled similarly released in 2003, 2005, or 2008?
+Clarification Response 1: The version since 2005.
+Clarification Response 2: The original 1979 version by Michael Jackson.
+Clarification Response 3: The 2003 version.
+Clarification Response 4: The 2008 version "Rock with U".
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  90%|████████▉ | 358/400 [17:32<03:18,  4.72s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the original composition by Herman Hupfeld, or the version performed by Hiroko Shimabukuro?
+Clarification Response 1: The original by Herman Hupfeld.
+Clarification Response 2: The version by Hiroko Shimabukuro.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  90%|████████▉ | 359/400 [17:37<03:19,  4.88s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the top individual batsman (any nationality), specifically an Indian player, or the team with the highest total score in a single match?
+Clarification Response 1: Any individual player.
+Clarification Response 2: Specifically an Indian player.
+Clarification Response 3: The team with the highest single-match total.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  90%|█████████ | 361/400 [17:47<03:15,  5.01s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for a specific player's name or just the record number, and do you mean regular season games or All-Star games?
+Clarification Response 1: The record number of points in a regular season game.
+Clarification Response 2: The name of the player with the most points in a regular season game.
+Clarification Response 3: The record number of goals in a regular season game.
+Clarification Response 4: The name of the player with the most goals in a regular season game.
+Clarification Response 5: The record number of points in an All-Star game.
+Clarification Response 6: The name of the player with the most points in an All-Star game.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  91%|█████████ | 364/400 [17:51<01:59,  3.31s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the name of the band or the specific lead vocalist who sings "What a Beautiful Name"?
+Clarification Response 1: The band.
+Clarification Response 2: The lead singer.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  91%|█████████▏| 365/400 [17:55<02:01,  3.46s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the "Manchester of India" in Gujarat, Maharashtra, or South India?
+Clarification Response 1: Gujarat.
+Clarification Response 2: Maharashtra.
+Clarification Response 3: South India.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  92%|█████████▏| 366/400 [18:02<02:20,  4.12s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the character who dies at the very end of the movie, or a different character who dies earlier in the film?
+Clarification Response 1: The character who dies at the very end.
+Clarification Response 2: A character who dies earlier in the film.
+Clarification Response 3: The actor's name for the character dying at the end.
+Clarification Response 4: The character from the novel.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  92%|█████████▏| 369/400 [18:12<01:56,  3.76s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking who wrote the song, which band popularized it in 1979, or who originally performed/covered it in 1962?
+Clarification Response 1: Who wrote the song.
+Clarification Response 2: Which band popularized it in 1979.
+Clarification Response 3: Which band recorded it in 1979.
+Clarification Response 4: Who covered it in 1962.
+Clarification Response 5: Who wrote "I Fought the Law".
+Clarification Response 6: Which band first performed it.
+Clarification Response 7: Which band made it popular.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  94%|█████████▍| 375/400 [18:17<00:52,  2.11s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which season and division are you referring to: Season 1 (2017), Season 2, or Season 3?
+Clarification Response 1: Season 1 (2017).
+Clarification Response 2: Season 2.
+Clarification Response 3: Season 3.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  94%|█████████▍| 377/400 [18:22<00:48,  2.12s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for a definition of the musculoskeletal system, its functions, or something else entirely?
+Clarification Response 1: Just the definition.
+Clarification Response 2: Its functions.
+Clarification Response 3: Something else.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  95%|█████████▌| 380/400 [18:29<00:44,  2.21s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Which specific tournament or year are you asking about: the 2016 Copa América Centenario, the 2015 Copa América, or when the captain was appointed in 2008?
+Clarification Response 1: The 2016 Copa América Centenario.
+Clarification Response 2: The 2015 Copa América.
+Clarification Response 3: When the captain was appointed in 2008.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  95%|█████████▌| 381/400 [18:33<00:46,  2.43s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the specific militia forces that won, or the individual commanders and leaders who led them?
+Clarification Response 1: The specific militia forces.
+Clarification Response 2: The individual commanders and leaders.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  96%|█████████▌| 382/400 [18:39<00:53,  2.97s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking how the couple Nancy Mulligan was related to Ed Sheeran, or are you asking for the names of his grandmother or grandfather mentioned in the song?
+Clarification Response 1: How was the couple related to him?
+Clarification Response 2: What is the name of the grandmother?
+Clarification Response 3: What is the name of the grandfather?
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  96%|█████████▌| 383/400 [18:47<01:06,  3.90s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking if the Memphis Belle was the first heavy bomber in Europe, the first B-17 in the ETO, the first B-17 overall, or simply what the first B-17 to do so was?
+Clarification Response 1: First heavy bomber in Europe.
+Clarification Response 2: First B-17 in the ETO.
+Clarification Response 3: First B-17 overall.
+Clarification Response 4: What was the first B-17?
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  96%|█████████▌| 384/400 [18:51<01:05,  4.08s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the first bankruptcy filing, the second one, or when the company completely ceased operations?
+Clarification Response 1: The first bankruptcy filing.
+Clarification Response 2: The second bankruptcy filing.
+Clarification Response 3: When it completely ceased operations.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  97%|█████████▋| 387/400 [19:01<00:47,  3.64s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the global release date, a specific country's chart debut (UK, Germany, Ireland, or Australia), the music video premiere at the MTV Awards, or when filming began?
+Clarification Response 1: Global release date.
+Clarification Response 2: UK release date.
+Clarification Response 3: German CD single release date.
+Clarification Response 4: MTV Music Awards premiere date.
+Clarification Response 5: Irish chart debut date.
+Clarification Response 6: Australian number one date.
+Clarification Response 7: Video filming start date.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  98%|█████████▊| 391/400 [19:06<00:22,  2.50s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking for the 2002 estimate from the World Book Encyclopedia, or from other sources?
+Clarification Response 1: The 2002 estimate from the World Book Encyclopedia.
+Clarification Response 2: The 2002 estimate from other sources.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  98%|█████████▊| 393/400 [19:10<00:17,  2.44s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the discovery of electric shocks from fish, or the systematic study of electricity and magnetism?
+Clarification Response 1: The discovery of electric shocks from fish.
+Clarification Response 2: The systematic study of electricity and magnetism.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  98%|█████████▊| 394/400 [19:15<00:16,  2.73s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the teams, players, or coaches who have won the most Super Bowls?
+Clarification Response 1: The teams.
+Clarification Response 2: The players.
+Clarification Response 3: The coaches.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  99%|█████████▉| 395/400 [19:18<00:13,  2.79s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the record holder for men's or women's international football?
+Clarification Response 1: Men.
+Clarification Response 2: Women.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B):  99%|█████████▉| 396/400 [19:22<00:12,  3.01s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the winner in the Friday Night Lights movie or book, or specifically the winner of Season 5?
+Clarification Response 1: The movie or book.
+Clarification Response 2: Season 5.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B): 100%|█████████▉| 398/400 [19:26<00:05,  2.80s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking about the specific count for the 'Export As' brand, or the standard number of cigarettes per pack in the USA?
+Clarification Response 1: The count for the 'Export As' brand.
+Clarification Response 2: The standard number of cigarettes per pack.
+-----------------------------------------------------
+Generating Oracle Q&A (Qwen 3.5 9B): 100%|██████████| 400/400 [19:31<00:00,  2.93s/it]
+
+
+-----------------------------------------------------
+Clarification Question: Are you asking which members of the Union received more power, or which branch of government was strengthened by the Virginia Plan?
+Clarification Response 1: The members of the Union.
+Clarification Response 2: The branch of government.
+-----------------------------------------------------
+
+Oracle Q&A generated for 200/200 ambiguous samples
+
+Q: Who dies at the end of the movie remember the titans?
+Oracle Q: Are you asking for the name of the character who dies, or the name of the actor who played that character?
+  -> The character's name.  (gold: ['Bertier', 'Gerry Bertier'])
+  -> The actor's name.  (gold: ['Ryan Hurst', 'Hurst'])

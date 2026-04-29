@@ -1,0 +1,77 @@
+{
+  "id": "123456790",
+  "input_x": "When was mercury discovered?",
+  "is_ambiguous": true,
+  "interpretations": [
+    {
+      "question": "When was the planet mercury discovered?",
+      "answer": "1609"
+    },
+    {
+      "question": "When was the element mercury discovered?",
+      "answer": "2000 BC"
+    }
+  ],
+  "gold_intent_question": "When was the planet mercury discovered?",
+  "gold_output_answer": "1609",
+  "intent_sim": {
+    "oracle_clarifying_question": "Are you asking about the planet Mercury or the chemical element mercury?",
+    "oracle_clarifying_responses": [
+      {
+        "clarification_response": "The planet.",
+        "disambiguated_question": "When was the planet mercury discovered?",
+        "answer": "1609"
+      },
+      {
+        "clarification_response": "The element.",
+        "disambiguated_question": "When was the element mercury discovered?",
+        "answer": "2000 BC"
+      }
+    ],
+    "greedy_clarifying_question": "Follow-Up Question: Are you referring to the discovery of the element Mercury by humans, or the discovery of the planet Mercury?",
+    "generated_intents": [
+      "the element Mercury",
+      "the element Mercury",
+      "the element Mercury",
+      "the planet Mercury",
+      "the element Mercury",
+      "the planet Mercury",
+      "the element Mercury",
+      "the element Mercury",
+      "the planet Mercury",
+      "the planet Mercury"
+    ],
+    "uncertainty_score": 0.9709505944546688,
+    "clusters": [
+      [
+        0,
+        1,
+        2,
+        4,
+        6,
+        7
+      ],
+      [
+        3,
+        5,
+        8,
+        9
+      ]
+    ],
+    "cluster_probabilities": [
+      0.6,
+      0.4
+    ],
+    "evaluation_responses": {
+      "direct_answer": "Ancient times",
+      "clarified_answer": "160 BC",
+      "clarified_interpretation": {
+        "clarification_response": "The planet.",
+        "disambiguated_question": "When was the planet mercury discovered?",
+        "answer": "1609"
+      }
+    },
+    "direct_correct": false,
+    "clarified_correct": true
+  }
+}

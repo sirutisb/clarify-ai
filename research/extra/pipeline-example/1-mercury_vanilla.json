@@ -1,0 +1,26 @@
+{
+  "id": "1234567890",
+  "question": "When was mercury discovered?",
+  "annotations": [
+    {
+      "type": "multipleQAs",
+      "qaPairs": [
+        {
+          "question": "When was the planet mercury discovered?",
+          "answer": [
+            "1609"
+          ]
+        },
+        {
+          "question": "When was the element mercury discovered?",
+          "answer": [
+            "2000 BC"
+          ]
+        }
+      ]
+    }
+  ],
+  "nq_answer": [
+    "1609"
+  ]
+}
